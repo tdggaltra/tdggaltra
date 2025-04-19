@@ -1,7 +1,7 @@
-<div align = "center"
+
     # GALTRA
     ## Transformando Dados em Decisões Inteligentes
-</div>
+
 <div align="center">
   <img src="./galtra1.png" alt="GALTRA Logo" width="400px">
 </div>
