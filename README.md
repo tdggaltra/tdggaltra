@@ -1,6 +1,5 @@
-
-    # GALTRA
-    ## Transformando Dados em Decisões Inteligentes
+<p style="text-align: center;">GALTRA</p>
+<p style="text-align: center;">Transformando Dados em Decisões Inteligentes</p>
 
 <div align="center">
   <img src="./galtra1.png" alt="GALTRA Logo" width="400px">
