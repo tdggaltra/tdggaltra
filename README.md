@@ -2,7 +2,7 @@
 ## Transformando Dados em Decisões Inteligentes
 
 <div align="center">
-  <img src="./images/galtra-logo.png" alt="GALTRA Logo" width="400px">
+  <img src="./galtra1.png" alt="GALTRA Logo" width="400px">
 </div>
 
 ---
