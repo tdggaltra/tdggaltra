@@ -85,10 +85,10 @@ Garantimos que suas soluções de IA sejam implementadas de forma eficiente e es
 
 Estamos prontos para ajudar sua empresa a aproveitar o poder dos dados e da inteligência artificial.
 
-📧 **Email**: contato@galtra.com.br  
+📧 **Email**: tdggalvaoo@gmail.com  
 🌐 **Website**: www.galtra.com.br  
-📱 **Telefone**: +55 (11) 9999-9999  
-📍 **Endereço**: Av. Paulista, 1000, São Paulo, SP
+📱 **Telefone**: +55 (43) 99921-9978  
+📍 **Endereço**: Rua João Huss, 1000, Londrina, PR
 
 ---
 
