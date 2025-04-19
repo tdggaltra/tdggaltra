@@ -2,9 +2,10 @@
 
 <div align="center">
   <img src="./galtra1.png" alt="GALTRA Logo" width="400px">
-  **Transformando Dados em Decisões Inteligentes**
 </div>
 
+---
+# Transformando Dados em Decisões Inteligentes
 ---
 
 ## Sobre Nós
