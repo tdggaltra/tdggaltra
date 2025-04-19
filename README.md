@@ -14,7 +14,7 @@
 
 ## Sobre Nós
 
-A GALTRA é uma empresa especializada em Ciência de Dados e Inteligência Artificial, focada em transformar dados complexos em insights acionáveis e soluções inteligentes. Nossa missão é capacitar empresas a tomarem decisões mais inteligentes e estratégicas através da análise avançada de dados e implementação de tecnologias de IA.
+A **GALTRA** é uma empresa especializada em Ciência de Dados e Inteligência Artificial, focada em transformar dados complexos em insights acionáveis e soluções inteligentes. Nossa missão é capacitar empresas a tomarem decisões mais inteligentes e estratégicas através da análise avançada de dados e implementação de tecnologias de IA.
 
 Com uma equipe multidisciplinar de cientistas de dados, engenheiros de machine learning e especialistas em business intelligence, oferecemos soluções personalizadas que atendem às necessidades específicas de cada cliente, independente do setor ou tamanho da organização.
 
