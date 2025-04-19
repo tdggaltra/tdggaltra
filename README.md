@@ -7,7 +7,6 @@
 ---
 
 <div align="center">
-  <h1>GALTRA</h1>
   <h2>Transformando Dados em Decisões Inteligentes</h2>
 </div>
 
